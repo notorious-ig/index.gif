@@ -1,0 +1,2 @@
+# index.gif
+index.pdf
